@@ -1,0 +1,39 @@
+#include ".Xresources.d/rofi"
+
+! special
+*.foreground:   #78b8ca
+*.background:   #24598f
+*.cursorColor:  #78b8ca
+
+! black
+*.color0:       #24598f
+*.color8:       #2b3b54
+
+! red
+*.color1:       #4273a5
+*.color9:       #8ccbda
+
+! green
+*.color2:       #34b0d7
+*.color10:      #5441ea
+
+! yellow
+*.color3:       #5fded2
+*.color11:      #748af0
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #88b7c5
+
+! white
+*.color7:       #75b7f8
+*.color15:      #3fabd3
+
