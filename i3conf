@@ -19,6 +19,39 @@ font pango:monospace 8
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
+set_from_resource $darkblack   background  #000000
+set_from_resource $black       background  #000000
+set_from_resource $darkred     color0  #000000
+set_from_resource $red         color8  #000000
+set_from_resource $darkgreen   color1  #000000
+set_from_resource $green       color9  #000000
+set_from_resource $darkyellow  color2  #000000
+set_from_resource $yellow      color10 #000000
+set_from_resource $darkblue    color3  #000000
+set_from_resource $blue        color11 #000000
+set_from_resource $darkmagenta color4  #000000
+set_from_resource $magenta     color12 #000000
+set_from_resource $darkcyan    color5  #000000
+set_from_resource $cyan        color13 #000000
+set_from_resource $darkidk     color6  #000000
+set_from_resource $idk	       color14 #000000
+set_from_resource $darkwhite   color7  #000000
+set_from_resource $white       color15 #000000
+
+set_from_resource $fg i3wm.color7 #f0f0f0
+set_from_resource $bg i3wm.color2 #f0f0f0
+
+# class                 border  	backgr.       text_indicator 	child_border
+client.focused          $darkgreen     $darkgreen     $darkwhite  	$darkgreen       $darkgreen
+client.focused_inactive $green    $green     $darkwhite  	$green       $green
+client.unfocused        $black    $black     $darkwhite  	$black       $black
+client.urgent           $darkgreen     $darkgreen     $darkwhite  	$darkgreen       $darkgreen
+client.placeholder      $darkgreen     $darkgreen     $darkwhite  	$darkgreen       $darkgreen
+
+client.background       $darkgreen
+
+
+
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
@@ -36,11 +69,21 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec rofi -show run
+bindsym $mod+d exec dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+# Pulse Audio controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
+
+# Screen brightness controls
+bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
+bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
+
 
 # change focus
 bindsym $mod+j focus left
@@ -48,10 +91,6 @@ bindsym $mod+k focus down
 bindsym $mod+l focus up
 bindsym $mod+semicolon focus right
 
-#i3 gaps config
-gaps inner 20
-gaps outer 35
-for_window [class="^.*"] border pixel 0
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
 bindsym $mod+Down focus down
@@ -69,6 +108,13 @@ bindsym $mod+Shift+Left move left
 bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
+
+# i3-gaps stuffs
+gaps inner 10
+gaps outer 30
+for_window [class="^.*"] border pixel 0 
+
+smart_borders on
 
 # split in horizontal orientation
 bindsym $mod+h split h
@@ -155,10 +201,8 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-
-
-
 bar {
-  status_command i3blocks
+	status_command i3status
 }
-
+exec_always compton -f
+exec_always feh --bg-scale ~/Pictures/yui.png
