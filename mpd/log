@@ -1,0 +1,236 @@
+Apr 03 20:05 : exception: Failed to open /home/mayonaka/.config/mpd/state: No such file or directory
+Apr 03 20:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 20:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 20:16 : client: [0] opened from [::1]:51410
+Apr 03 20:16 : client: [0] closed
+Apr 03 20:16 : client: [1] opened from [::1]:51412
+Apr 03 20:16 : client: [1] closed
+Apr 03 20:19 : client: [2] opened from [::1]:51444
+Apr 03 20:19 : client: [2] closed
+Apr 03 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 20:21 : client: [0] opened from [::1]:51454
+Apr 03 20:21 : client: [0] closed
+Apr 03 20:21 : client: [1] opened from [::1]:51456
+Apr 03 20:21 : client: [1] closed
+Apr 03 20:21 : update: added Future - FUTURE (2017)/15. Flip.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/12. Might As Well.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/03. Zoom.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/04. Draco.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/13. Poppin’ Tags.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/17. Feds Did a Sweep.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/14. Massage in My Room.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/07. Mask Off.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/02. Good Dope.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/10. Scrape.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/01. Rent Money.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/06. POA.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/09. Outta Time.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/11. I’m So Groovy.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/08. High Demand.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/16. When I Was Broke.mp3
+Apr 03 20:21 : update: added Future - FUTURE (2017)/05. Super Trapper.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/01 - Migos - Culture (feat. DJ Khaled).mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/09 - Migos - Brown Paper Bag.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/02 - Migos - T-Shirt.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/13 - Migos - Out Yo Way.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/03 - Migos - Call Casting.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/07 - Migos - Big On Big.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/11 - Migos - All Ass.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/08 - Migos - What The Price.mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/12 - Migos - Kelly Price (feat. Travis Scott).mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/04 - Migos - Bad and Boujee (feat. Lil Uzi Vert).mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/10 - Migos - Deadz (feat. 2 Chainz).mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/06 - Migos - Slippery (feat. Gucci Mane).mp3
+Apr 03 20:21 : update: added Migos - 2017 - Culture [WEB] {320}/05 - Migos - Get Right Witcha.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Rice Balls.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/SMD.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Hand On My Gat.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Pink Life.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/I Have A Gun.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/セックス大好き.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Gays 4 Donald.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Another Earth.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Furr.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/I Will Get A Vasectomy.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Hentai.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/CLUB BANGER 3000.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/FLEX LIKE DAVID ICKE.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Goofy's Trial.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/She's So Nice.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Are You Serious.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Nickelodeon Girls.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Dog Festival Directions.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Hot Nickel Ball On A Pussy.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/White Is Right.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/STFU.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Meme Machine.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Fried Noodles.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/I DO IT FOR MY HOOD.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/d i c c w e t t 1.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/PLEASE STOP CALLING ME GAY.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Uber Pussy.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Dumplings.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Small Dick.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/HIGH SCHOOL BLINK193.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Be Inspired.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Please Stop Touching My Willy.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/We fall Again.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Help.mp3
+Apr 03 20:21 : update: added Pink Guy - Pink Season/Dora.mp3
+Apr 03 20:21 : update: added Kyle - iSpy (Single)/01 iSpy (feat. Lil Yachty).mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/08 - Foldin Clothes.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/09 - She's Mine Pt. 2.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/01 - For Whom the Bell Tolls.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/05 - She's Mine Pt. 1.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/02 - Immortal.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/03 - Deja Vu.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/06 - Change.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/04 - Ville Mentality.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/10 - 4 Your Eyez Only.mp3
+Apr 03 20:21 : update: added J. Cole - 4 Your Eyez Only (2016)/07 - Neighbors.mp3
+Apr 03 20:21 : update: added Demon Days/03 - Kids With Guns.mp3
+Apr 03 20:21 : update: added Demon Days/13 - Fire Coming Out Of The Monkey's Head.mp3
+Apr 03 20:21 : update: added Demon Days/06 - Feel Good Inc..mp3
+Apr 03 20:21 : update: added Demon Days/12 - Dare.mp3
+Apr 03 20:21 : update: added Demon Days/01 - Intro.mp3
+Apr 03 20:21 : update: added Demon Days/14 - Don't Get Lost In Heaven.mp3
+Apr 03 20:21 : update: added Demon Days/05 - Dirty Harry.mp3
+Apr 03 20:21 : update: added Demon Days/04 - O Green World.mp3
+Apr 03 20:21 : update: added Demon Days/15 - Demon Days.mp3
+Apr 03 20:21 : update: added Demon Days/08 - Every Planet We Reach Is Dead.mp3
+Apr 03 20:21 : update: added Demon Days/07 - El Mañana.mp3
+Apr 03 20:21 : update: added Demon Days/11 - White Light.mp3
+Apr 03 20:21 : update: added Demon Days/10 - All Alone.mp3
+Apr 03 20:21 : update: added Demon Days/02 - Last Living Souls.mp3
+Apr 03 20:21 : update: added Demon Days/09 - November Has Come.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/06 Fire Squad.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/03 Wet Dreamz.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/12 Love Yourz.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/04 03' Adolescence.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/13 Note to Self.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/01 Intro.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/07 St. Tropez.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/05 A Tale of 2 Citiez.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/08 G.O.M.D.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/11 Apparently.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/02 January 28th.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/10 Hello.mp3
+Apr 03 20:21 : update: added 2014 Forest Hills Drive/09 No Role Modelz.mp3
+Apr 03 20:21 : client: [2] opened from [::1]:51458
+Apr 03 20:21 : client: [2] closed
+Apr 03 20:21 : client: [3] opened from [::1]:51462
+Apr 03 20:21 : client: [3] closed
+Apr 03 20:21 : client: [4] opened from [::1]:51464
+Apr 03 20:21 : client: [4] closed
+Apr 03 20:21 : client: [5] opened from [::1]:51466
+Apr 03 20:29 : client: [5] closed
+Apr 03 20:29 : client: [6] opened from [::1]:51500
+Apr 03 20:33 : player: played "Kyle - iSpy (Single)/01 iSpy (feat. Lil Yachty).mp3"
+Apr 03 20:37 : player: played "Migos - 2017 - Culture [WEB] {320}/02 - Migos - T-Shirt.mp3"
+Apr 03 20:42 : client: [6] closed
+Apr 03 20:47 : avahi: Client Disconnected, will reconnect shortly
+Apr 03 20:47 : avahi: Could not reconnect: Daemon not running
+Apr 03 20:47 : player: played "Migos - 2017 - Culture [WEB] {320}/03 - Migos - Call Casting.mp3"
+Apr 03 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 23:47 : client: [0] opened from [::1]:57266
+Apr 03 23:47 : client: [0] closed
+Apr 03 23:47 : player: played "Migos - 2017 - Culture [WEB] {320}/03 - Migos - Call Casting.mp3"
+Apr 04 00:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 00:07 : client: [0] opened from [::1]:57408
+Apr 04 00:07 : client: [0] closed
+Apr 04 00:07 : client: [1] opened from [::1]:57410
+Apr 04 00:07 : client: [1] closed
+Apr 04 00:07 : client: [2] opened from [::1]:57412
+Apr 04 00:07 : client: [2] closed
+Apr 04 00:07 : client: [3] opened from [::1]:57414
+Apr 04 00:07 : client: [3] closed
+Apr 04 00:07 : client: [4] opened from [::1]:57416
+Apr 04 00:07 : client: [4] closed
+Apr 04 00:07 : client: [5] opened from [::1]:57418
+Apr 04 00:07 : client: [5] closed
+Apr 04 00:07 : client: [6] opened from [::1]:57420
+Apr 04 00:07 : client: [6] closed
+Apr 04 00:08 : client: [7] opened from [::1]:57422
+Apr 04 00:08 : client: [7] closed
+Apr 04 00:08 : client: [8] opened from [::1]:57424
+Apr 04 00:08 : client: [8] closed
+Apr 04 00:08 : client: [9] opened from [::1]:57426
+Apr 04 00:08 : client: [9] closed
+Apr 04 00:08 : client: [10] opened from [::1]:57428
+Apr 04 00:08 : client: [10] closed
+Apr 04 00:08 : client: [11] opened from [::1]:57430
+Apr 04 00:08 : client: [11] closed
+Apr 04 00:08 : client: [12] opened from [::1]:57432
+Apr 04 00:08 : client: [12] closed
+Apr 04 00:08 : client: [13] opened from [::1]:57434
+Apr 04 00:08 : client: [13] closed
+Apr 04 00:08 : client: [14] opened from [::1]:57436
+Apr 04 00:08 : client: [14] closed
+Apr 04 00:08 : client: [15] opened from [::1]:57438
+Apr 04 00:08 : client: [15] closed
+Apr 04 00:08 : client: [16] opened from [::1]:57440
+Apr 04 00:08 : client: [16] closed
+Apr 04 00:09 : client: [17] opened from [::1]:57442
+Apr 04 00:09 : client: [17] closed
+Apr 04 00:09 : client: [18] opened from [::1]:57444
+Apr 04 00:09 : client: [18] closed
+Apr 04 00:09 : client: [19] opened from [::1]:57446
+Apr 04 00:09 : client: [19] closed
+Apr 04 00:09 : client: [20] opened from [::1]:57448
+Apr 04 00:09 : client: [20] closed
+Apr 04 00:09 : client: [21] opened from [::1]:57450
+Apr 04 00:09 : client: [21] closed
+Apr 04 00:09 : client: [22] opened from [::1]:57452
+Apr 04 00:09 : client: [22] closed
+Apr 04 00:09 : client: [23] opened from [::1]:57454
+Apr 04 00:09 : client: [23] closed
+Apr 04 00:09 : client: [24] opened from [::1]:57456
+Apr 04 00:09 : client: [24] closed
+Apr 04 00:09 : client: [25] opened from [::1]:57458
+Apr 04 00:09 : client: [25] closed
+Apr 04 00:09 : client: [26] opened from [::1]:57460
+Apr 04 00:09 : client: [26] closed
+Apr 04 00:10 : client: [27] opened from [::1]:57462
+Apr 04 00:10 : client: [27] closed
+Apr 04 00:10 : client: [28] opened from [::1]:57464
+Apr 04 00:10 : client: [28] closed
+Apr 04 00:10 : client: [29] opened from [::1]:57466
+Apr 04 00:10 : client: [29] closed
+Apr 04 00:10 : client: [30] opened from [::1]:57468
+Apr 04 00:10 : client: [30] closed
+Apr 04 00:10 : client: [31] opened from [::1]:57470
+Apr 04 00:10 : client: [31] closed
+Apr 04 00:10 : client: [32] opened from [::1]:57472
+Apr 04 00:10 : client: [32] closed
+Apr 04 00:10 : client: [33] opened from [::1]:57474
+Apr 04 00:10 : client: [33] closed
+Apr 04 00:10 : client: [34] opened from [::1]:57476
+Apr 04 00:10 : client: [34] closed
+Apr 04 00:10 : client: [35] opened from [::1]:57478
+Apr 04 00:10 : client: [35] closed
+Apr 04 00:10 : client: [36] opened from [::1]:57480
+Apr 04 00:10 : client: [36] closed
+Apr 04 00:11 : client: [37] opened from [::1]:57482
+Apr 04 00:11 : client: [37] closed
+Apr 04 00:11 : client: [38] opened from [::1]:57484
+Apr 04 00:11 : client: [38] closed
+Apr 04 00:11 : client: [39] opened from [::1]:57486
+Apr 04 00:11 : client: [39] closed
+Apr 04 00:11 : client: [40] opened from [::1]:57488
+Apr 04 00:11 : client: [40] closed
+Apr 04 00:11 : client: [41] opened from [::1]:57490
+Apr 04 00:11 : client: [41] closed
+Apr 04 00:11 : client: [42] opened from [::1]:57492
+Apr 04 00:11 : client: [42] closed
+Apr 04 00:11 : client: [43] opened from [::1]:57494
+Apr 04 00:11 : client: [43] closed
+Apr 04 00:11 : client: [44] opened from [::1]:57496
+Apr 04 00:11 : client: [44] closed
+Apr 04 00:11 : client: [45] opened from [::1]:57498
+Apr 04 00:11 : client: [45] closed
+Apr 04 00:11 : client: [46] opened from [::1]:57500
+Apr 04 00:11 : client: [46] closed
+Apr 04 00:17 : avahi: Client Disconnected, will reconnect shortly
+Apr 04 00:17 : avahi: Could not reconnect: Daemon not running
+Apr 04 00:17 : player: played "Migos - 2017 - Culture [WEB] {320}/03 - Migos - Call Casting.mp3"
